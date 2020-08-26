@@ -14,4 +14,8 @@ public class EurekaSpringbootApplication {
         SpringApplication.run(EurekaSpringbootApplication.class, args);
     }
 
+    public void test() {
+        int i = 0;
+        i += 10;
+    }
 }
